@@ -1,4 +1,7 @@
 # How to made an Flask server from zero
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b2d0cc761a9a4a20b405469a9ac00820)](https://app.codacy.com/gh/Sanchez-Industries/How-to-Made-an-Flask-Server-From-Zero?utm_source=github.com&utm_medium=referral&utm_content=Sanchez-Industries/How-to-Made-an-Flask-Server-From-Zero&utm_campaign=Badge_Grade_Settings)
+
 ## Full guidelines - Author is Rick Sanchez D634.
 
 _From the void of your creation, please get an server now, with this paper you can do the important things so fast, very fast_
